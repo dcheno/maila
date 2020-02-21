@@ -1,8 +1,10 @@
 # Mac stuff
 .DS_Store
 
-# python env
+# python
 env
+maila/__pycache__
 
 # jetbrains
 .idea
+
