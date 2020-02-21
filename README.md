@@ -21,3 +21,11 @@ Then you should be good to do.
 
 To stop working in the virtual environment:
 `deactivate`
+
+###
+
+Starting the development server:
+
+1. If you haven't already done so, make sure that `maila/bin/start_dev_server.sh` is executable.
+`chmod +x bin/start_dev_server.sh`
+2. `./bin/start_dev_server.sh`
