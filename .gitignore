@@ -1,1 +1,8 @@
+# Mac stuff
 .DS_Store
+
+# python env
+env
+
+# jetbrains
+.idea
